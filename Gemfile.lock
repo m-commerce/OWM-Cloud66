@@ -39,7 +39,7 @@ GEM
     libarchive (0.1.2)
     linecache (0.46)
       rbx-require-relative (> 0.0.4)
-    mysql (2.8.1)
+    mysql2 (0.3.11)
     net-scp (1.0.4)
       net-ssh (>= 1.99.1)
     net-sftp (2.0.5)
@@ -80,7 +80,7 @@ DEPENDENCIES
   geokit (>= 1.5.0)
   i18n (~> 0.4.1)
   libarchive (>= 0.1.2)
-  mysql
+  mysql2 (0.3.11)
   packet (= 0.1.15)!
   rails (= 2.3.11)
   ruby-debug
