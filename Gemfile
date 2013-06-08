@@ -26,6 +26,5 @@ gem 'cap-recipes', '~> 0.3.36', :require => false
 gem 'capistrano_colors', '~> 0.5.4', :require => false
 
 group :development do
-  gem 'sqlite3'
-  gem 'ruby-debug'
+gem 'ruby-debug'
 end
