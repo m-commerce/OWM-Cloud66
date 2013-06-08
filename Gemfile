@@ -1,7 +1,7 @@
 source :gemcutter
 
 gem 'rails', '2.3.11'
-gem 'mysql'
+gem 'mysql2'
 
 gem 'geokit', '>= 1.5.0'
 
